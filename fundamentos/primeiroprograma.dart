@@ -1,4 +1,4 @@
 main() {
   print('Olá Dart!');
-  print('Até o próximo encontro!!!')
+  print('Até o próximo encontro!!!');
 }
